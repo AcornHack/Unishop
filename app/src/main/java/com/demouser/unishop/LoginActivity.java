@@ -75,6 +75,8 @@ public class LoginActivity extends AppCompatActivity implements OnConnectionFail
             // Signed in successfully, show authenticated UI.
             GoogleSignInAccount acct = result.getSignInAccount();
             mStatusTextView.setText(acct.getDisplayName());
+            Intent intent = new Intent(this, Categories.class);
+            startActivity(intent);
 //            updateUI(true);
         } else {
 
