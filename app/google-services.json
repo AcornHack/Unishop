@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "62640659973",
+    "project_id": "firebase-unishop"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62640659973:android:5b8ccb8057fa90c4",
+        "android_client_info": {
+          "package_name": "com.demouser.unishop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62640659973-q08qj3t6uiqhl1r5f0mdoq9k5oic5q2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demouser.unishop",
+            "certificate_hash": "0D40B19863882CC14A1562F061F234A5469C62D0"
+          }
+        },
+        {
+          "client_id": "62640659973-doqhvftq26hngvepuemvrkvjdklloste.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqaX8nqw5JnqbZUXxb6FHVJYF3gXUAzgA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
